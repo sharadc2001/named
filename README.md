@@ -1,0 +1,2 @@
+# named
+sample named configuration
